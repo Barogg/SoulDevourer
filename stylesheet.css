@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Greybeard 22px';
+    src: url('greybeard-22px-11.eot');
+    src: url('greybeard-22px-11.eot?#iefix') format('embedded-opentype'),
+         url('greybeard-22px-11.woff2') format('woff2'),
+         url('Greybeard-22px-11.woff') format('woff'),
+         url('greybeard-22px.ttf')  format('truetype'),
+         url('greybeard-22px-11.svg#Greybeard 22px') format('svg');
+}
